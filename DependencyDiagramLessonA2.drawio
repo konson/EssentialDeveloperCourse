@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net" modified="2024-05-10T18:42:34.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="C-eGSoy2USV1TOlHRnfn" version="24.3.1" type="github">
+  <diagram name="Page-1" id="2k4kQFXLUoXcd1VmAueP">
+    <mxGraphModel dx="1381" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-1" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#b18cfe&quot;&gt;FeedViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC99FF;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="550" y="250" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-2" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#b18cfe&quot;&gt;FeedViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#cc99ff;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="10" y="50" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-3" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 20px;&quot;&gt;UIViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009900;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="550" y="400" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-4" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 20px;&quot;&gt;UIViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009900;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="10" y="214" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-7" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#cc99ff;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="n44Yq7HVJipE2xqLqNvO-1" target="n44Yq7HVJipE2xqLqNvO-3" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="420" as="sourcePoint" />
+            <mxPoint x="790" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-9" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#cc99ff;strokeWidth=2;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="60" as="sourcePoint" />
+            <mxPoint x="420" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-10" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#cc99ff;strokeWidth=2;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="90" as="sourcePoint" />
+            <mxPoint x="420" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-11" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#cc99ff;strokeWidth=2;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="120" as="sourcePoint" />
+            <mxPoint x="420" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-12" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#cc99ff;strokeWidth=2;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="150" as="sourcePoint" />
+            <mxPoint x="420" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-17" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#009900;strokeWidth=3;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="214" as="sourcePoint" />
+            <mxPoint x="420" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-18" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#009900;strokeWidth=3;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="244" as="sourcePoint" />
+            <mxPoint x="420" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-19" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#009900;strokeWidth=2;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="274" as="sourcePoint" />
+            <mxPoint x="420" y="274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-20" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#009900;strokeWidth=2;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="304" as="sourcePoint" />
+            <mxPoint x="420" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;UIViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF3333;strokeWidth=2;fontColor=#ff3333;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="15" y="374" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-22" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=3;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="374" as="sourcePoint" />
+            <mxPoint x="425" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-23" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=3;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="404" as="sourcePoint" />
+            <mxPoint x="425" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-24" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=2;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="434" as="sourcePoint" />
+            <mxPoint x="425" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-25" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=2;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="464" as="sourcePoint" />
+            <mxPoint x="425" y="464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;UIViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3399FF;strokeWidth=2;fontColor=#3399FF;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="15" y="520" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-27" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=3;fontColor=#3399FF;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="520" as="sourcePoint" />
+            <mxPoint x="425" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-28" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=3;dashed=1;fontColor=#3399FF;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="550" as="sourcePoint" />
+            <mxPoint x="425" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-29" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=2;fontColor=#3399FF;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="580" as="sourcePoint" />
+            <mxPoint x="425" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-30" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=2;dashed=1;fontColor=#3399FF;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="610" as="sourcePoint" />
+            <mxPoint x="425" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;UIViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF00FF;strokeWidth=2;fontColor=#ff3333;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="15" y="660" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-32" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#FF00FF;strokeWidth=3;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="660" as="sourcePoint" />
+            <mxPoint x="425" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-33" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#FF00FF;strokeWidth=3;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="690" as="sourcePoint" />
+            <mxPoint x="425" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-34" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#FF00FF;strokeWidth=2;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="720" as="sourcePoint" />
+            <mxPoint x="425" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n44Yq7HVJipE2xqLqNvO-35" value="" style="endArrow=classicThin;endSize=16;endFill=1;html=1;rounded=0;strokeColor=#FF00FF;strokeWidth=2;dashed=1;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265" y="750" as="sourcePoint" />
+            <mxPoint x="425" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F54K5IMfP_wZekRCtyxR-3" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85);&quot;&gt;&lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;import&lt;/b&gt;&lt;/span&gt; UIKit&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(93, 216, 255);&quot;&gt;&lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;class&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; &lt;/span&gt;FeedViewController&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #d0a8ff&quot;&gt;UIViewController&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); min-height: 18px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85);&quot;&gt;}&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#1A1A1A;labelBackgroundColor=#1A1A1A;rounded=0;glass=0;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="15" y="830" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fpUjxHbQ0aJESu-NvyN7-1" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85);&quot;&gt;&lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;import&lt;/b&gt;&lt;/span&gt; UIKit&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(93, 216, 255);&quot;&gt;&lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;class&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; &lt;/span&gt;FeedViewController&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #d0a8ff&quot;&gt;UIViewController&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); min-height: 18px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85);&quot;&gt;}&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#1A1A1A;labelBackgroundColor=#1A1A1A;rounded=0;glass=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="530" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fpUjxHbQ0aJESu-NvyN7-2" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#b18cfe&quot;&gt;FeedViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC99FF;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="250" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fpUjxHbQ0aJESu-NvyN7-3" value="&lt;font color=&quot;#009900&quot; style=&quot;font-size: 20px;&quot;&gt;UIViewController&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#009900;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="400" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fpUjxHbQ0aJESu-NvyN7-4" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#cc99ff;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="fpUjxHbQ0aJESu-NvyN7-2" target="fpUjxHbQ0aJESu-NvyN7-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1190" y="420" as="sourcePoint" />
+            <mxPoint x="1350" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpUjxHbQ0aJESu-NvyN7-5" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;import&lt;/b&gt;&lt;/span&gt; UIKit&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36); min-height: 18px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;typealias&lt;/b&gt;&lt;/span&gt; &lt;span style=&quot;color: #5dd8ff&quot;&gt;FeedLoader&lt;/span&gt; = (([&lt;span style=&quot;color: #d0a8ff&quot;&gt;String&lt;/span&gt;]) -&amp;gt; &lt;span style=&quot;color: #d0a8ff&quot;&gt;Void&lt;/span&gt;) -&amp;gt; &lt;span style=&quot;color: #d0a8ff&quot;&gt;Void&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36); min-height: 18px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(93, 216, 255); background-color: rgb(31, 31, 36);&quot;&gt;&lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;class&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; &lt;/span&gt;FeedViewController&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #d0a8ff&quot;&gt;UIViewController&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36); min-height: 18px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;var&lt;/b&gt;&lt;/span&gt; &lt;span style=&quot;color: #41a1c0&quot;&gt;loadFeed&lt;/span&gt;: ((([&lt;span style=&quot;color: #d0a8ff&quot;&gt;String&lt;/span&gt;]) -&amp;gt; &lt;span style=&quot;color: #d0a8ff&quot;&gt;Void&lt;/span&gt;) -&amp;gt; &lt;span style=&quot;color: #d0a8ff&quot;&gt;Void&lt;/span&gt;)!&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36); min-height: 18px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(252, 95, 163); background-color: rgb(31, 31, 36);&quot;&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;b&gt;convenience&lt;/b&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; &lt;/span&gt;&lt;b&gt;init&lt;/b&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #41a1c0&quot;&gt;loadFeeder&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;: &lt;/span&gt;&lt;b&gt;@escaping&lt;/b&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9ef1dd&quot;&gt;FeedLoader&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;) {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt;.&lt;span style=&quot;color: #a167e6&quot;&gt;init&lt;/span&gt;()&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;self&lt;/b&gt;&lt;/span&gt;.&lt;span style=&quot;color: #67b7a4&quot;&gt;loadFeed&lt;/span&gt; = loadFeeder&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36); min-height: 18px;&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(252, 95, 163); background-color: rgb(31, 31, 36);&quot;&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;b&gt;override&lt;/b&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; &lt;/span&gt;&lt;b&gt;func&lt;/b&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #41a1c0&quot;&gt;viewDidLoad&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.85)&quot;&gt;() {&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;super&lt;/b&gt;&lt;/span&gt;.&lt;span style=&quot;color: #a167e6&quot;&gt;viewDidLoad&lt;/span&gt;()&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #67b7a4&quot;&gt;loadFeed&lt;/span&gt; { loadedItems &lt;span style=&quot;color: #fc5fa3&quot;&gt;&lt;b&gt;in&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #6c7986&quot;&gt;// update UI&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; font-size: 15px; line-height: normal; font-family: Menlo; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgba(255, 255, 255, 0.85); background-color: rgb(31, 31, 36);&quot;&gt;}&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#1A1A1A;labelBackgroundColor=#1A1A1A;rounded=0;glass=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="530" width="530" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fpUjxHbQ0aJESu-NvyN7-6" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#b18cfe&quot;&gt;&amp;lt;FeedLoader&amp;gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC99FF;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="90" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fpUjxHbQ0aJESu-NvyN7-7" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;strokeColor=#cc99ff;strokeWidth=2;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="fpUjxHbQ0aJESu-NvyN7-2" target="fpUjxHbQ0aJESu-NvyN7-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1195" y="200" as="sourcePoint" />
+            <mxPoint x="1355" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
